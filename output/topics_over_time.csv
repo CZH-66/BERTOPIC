@@ -1,0 +1,294 @@
+﻿Topic,Words,Frequency,Timestamp
+-1,"model, use, data, learn, propose",207,2021-01-01
+0,"data, attack, privacy, security, model",51,2021-01-01
+1,"robot, control, traffic, plan, learn",32,2021-01-01
+2,"forecast, time series, series, swath, swath gap",24,2021-01-01
+3,"text, image, model, task, caption",9,2021-01-01
+4,"segmentation, image, cancer, medical, network",10,2021-01-01
+5,"answer, knowledge, question, knowledge graph, question answer",8,2021-01-01
+6,"word, language, english, nlp, model",14,2021-01-01
+7,"learn, task, meta, imbalance, data",11,2021-01-01
+8,"policy, rl, learn, reinforcement learn, reinforcement",18,2021-01-01
+9,"graph, gnns, network, link, graph neural",8,2021-01-01
+10,"hamiltonian, dynamics, hybrid model, physical, neural",7,2021-01-01
+11,"scam, video, videos, object, youtube",4,2021-01-01
+12,"kbs, lms, gsm, reason, performance",2,2021-01-01
+13,"speech, speaker, tts, multi channel, guide tts",6,2021-01-01
+14,"graph, problem, clique, algorithms, algorithm",8,2021-01-01
+15,"lidar, slam, odometry, intensity, point",5,2021-01-01
+16,"network, neural, neural network, layer, train",8,2021-01-01
+17,"recommendation, user, item, recommender, recommender systems",5,2021-01-01
+18,"image, view, brightness, light, photon",5,2021-01-01
+19,"quantization, network, prune, compression, accuracy",12,2021-01-01
+20,"quantum, classical, state, computers, nn",7,2021-01-01
+22,"newton, newton method, bayesian, posterior, new newton",9,2021-01-01
+23,"disease, hide variables, hide, spurious, clinical relate",1,2021-01-01
+24,"action, motion, human, action units, action localization",4,2021-01-01
+25,"audio, sound, music, sound source, video",9,2021-01-01
+26,"emotion, emotional, empathetic, gesture, micro gesture",5,2021-01-01
+27,"dropout, transformer, unidrop, different dropout, dropout techniques",1,2021-01-01
+28,"sz, eeg, brain, diagnosis, diagnose sz",4,2021-01-01
+29,"ai, ai ethics, ethics, ethics principles, ai systems",3,2021-01-01
+30,"pet, pet image, image reconstruction, reconstruction, direct pet",1,2021-01-01
+31,"causal, observational, causal model, instrumental, effect",4,2021-01-01
+32,"fairness, causal, smoo, fml, disparities",3,2021-01-01
+34,"point, point cloud, cloud, point wise, sample",3,2021-01-01
+35,"surrogate, ros, software, program, code",6,2021-01-01
+36,"fault, hardware fault, transient hardware, gpu, transient",1,2021-01-01
+37,"tweet, media, social media, social, suicide",6,2021-01-01
+38,"anomalies, map obtain, anomaly, detect anomalies, anomaly detection",1,2021-01-01
+39,"gin model, gin, train, original train, train translation",1,2021-01-01
+40,"dialogue, conversational, dialog, label, generate",8,2021-01-01
+41,"course, question, coms, code question, question text",1,2021-01-01
+43,"cluster, measure, mssc, soinak, ak",3,2021-01-01
+44,"arm, mab, bandit, ts, algorithm",4,2021-01-01
+45,"face, fsr, facial, expression, expressions",4,2021-01-01
+46,"depth, lr, monocular depth, monocular, depth estimation",3,2021-01-01
+47,"af, ecg, prs, signal, feature",2,2021-01-01
+48,"glider, underwater, current, assumption, measurements",1,2021-01-01
+49,"domain, target, target domain, source, label",2,2021-01-01
+-1,"model, learn, use, image, base",170,2022-01-01
+0,"attack, security, privacy, data, model",54,2022-01-01
+1,"robot, control, use, motion, robots",53,2022-01-01
+2,"forecast, use, model, data, image",24,2022-01-01
+3,"image, text, visual, language, style",15,2022-01-01
+4,"image, segmentation, covid, cancer, medical",15,2022-01-01
+5,"knowledge, question, answer, document, knowledge base",20,2022-01-01
+6,"word, language, nlp, languages, model",13,2022-01-01
+7,"train, learn, group, model, data",14,2022-01-01
+8,"policy, rl, reinforcement learn, reinforcement, learn",13,2022-01-01
+9,"graph, node, network, gnns, gnn",18,2022-01-01
+10,"neural, physics, dynamics, equation, neural network",11,2022-01-01
+11,"video, frame, mask, clip, videos",9,2022-01-01
+13,"speech, speaker, audio, indian, recognition",10,2022-01-01
+14,"graph, algorithm, round, problem, ell",10,2022-01-01
+15,"lidar, bev, point, base, feature",11,2022-01-01
+16,"network, neural, neural network, layer, linear",7,2022-01-01
+17,"recommendation, user, recommender, users, recommender systems",11,2022-01-01
+18,"render, luminaires, image, light, raw",4,2022-01-01
+19,"network, fault, prune, quantization, bite",12,2022-01-01
+20,"quantum, circuit, qd, classical, quantum circuit",9,2022-01-01
+21,"metabolites, protein, pathways, molecular, new metabolites",6,2022-01-01
+22,"optimization, truncate, parameter free, function, algorithms",6,2022-01-01
+23,"facilities, medical facilities, medical, treatment, data",3,2022-01-01
+24,"motion, body, human, style, motion style",3,2022-01-01
+25,"lyric, melody, audio, music, lyric melody",5,2022-01-01
+26,"msa, emotional state, robustness, emotional, diagnostic check",2,2022-01-01
+27,"transformer, transformers, neural decoders, channel output, tit",2,2022-01-01
+28,"delmar, matrix, peer methods, unique fix, brain",1,2022-01-01
+29,"ai, human, crowd, intelligence, predictions",2,2022-01-01
+30,"image, mri, mr, pet, noise level",5,2022-01-01
+31,"causal, causal diagram, abstract causal, diagram, universal",2,2022-01-01
+32,"fairness, fair, individual fairness, derandomization, unfairness",8,2022-01-01
+34,"point, point cloud, cloud, kss, registration",7,2022-01-01
+35,"satd, debt, source, code comment, commit message",2,2022-01-01
+37,"cultural, cultural areas, social, regional, social media",1,2022-01-01
+38,"anomaly, anomaly detection, detection, anomalies, batch",5,2022-01-01
+39,"gans, noise, time series, series, generative",3,2022-01-01
+40,"dialogue, dialog, utterances, dialog state, slot",4,2022-01-01
+41,"students, students model, completion rat, activities, completion",1,2022-01-01
+43,"cluster, fc, multi view, view, unlearn",4,2022-01-01
+44,"arm, epsilon, regret, bandits, bandit",5,2022-01-01
+46,"depth, monocular, monocular depth, depth estimation, cost volume",7,2022-01-01
+47,"ppg, mcu, tcn, base heart, ppg base",1,2022-01-01
+48,"sidescan, underwater, behaviours, startle, startle events",2,2022-01-01
+49,"domain, source, adaptation, frequency, uda",4,2022-01-01
+-1,"model, learn, use, train, base",250,2023-01-01
+0,"attack, privacy, data, model, fl",73,2023-01-01
+1,"robot, robots, control, task, motion",53,2023-01-01
+2,"segmentation, image, object, semantic, data",30,2023-01-01
+3,"image, text, model, diffusion, visual",24,2023-01-01
+4,"segmentation, image, medical, medical image, model",27,2023-01-01
+5,"retrieval, question, knowledge, answer, document",20,2023-01-01
+6,"language, translation, languages, model, cross lingual",20,2023-01-01
+7,"task, train, learn, model, continual",17,2023-01-01
+8,"policy, rl, learn, reinforcement learn, reinforcement",17,2023-01-01
+9,"graph, gnns, node, network, learn",18,2023-01-01
+10,"pde, pinns, neural, equations, physics",14,2023-01-01
+11,"video, frame, videos, temporal, hyper graph",7,2023-01-01
+12,"reason, llms, language, language model, labour market",9,2023-01-01
+13,"speaker, speech, tse, voice, ctc",6,2023-01-01
+14,"graph, log, algorithm, set, problem",7,2023-01-01
+15,"lidar, radar, point, point cloud, cloud",11,2023-01-01
+16,"network, neural, neural network, function, kirchhoffnet",10,2023-01-01
+17,"user, recommendation, recommender, recommender systems, item",9,2023-01-01
+18,"image, low light, light, low, light image",11,2023-01-01
+19,"prune, cim, quantization, sram, dnn",5,2023-01-01
+20,"quantum, classical, circuit, simulations, qkd",10,2023-01-01
+21,"protein, drug, proteins, model, design",12,2023-01-01
+22,"posterior, bayesian, vi, variational, optimization",11,2023-01-01
+23,"health, clinical, rgl, groupfasterrisk, model",8,2023-01-01
+24,"motion, human, skeleton, action, human motion",8,2023-01-01
+25,"sound, impact sound, physics, audio, impact",3,2023-01-01
+26,"emotion, emotions, multimodal, emotion recognition, empathy",10,2023-01-01
+27,"transformers, transformer, newton, layer, newton method",4,2023-01-01
+28,"eeg, brain, eeg signal, signal, dtw",11,2023-01-01
+29,"ai, formal methods, formal, ethical, ai systems",3,2023-01-01
+30,"mri, image, projections, ml, model degeneracy",3,2023-01-01
+31,"causal, instantaneous effect, causal graph, identifiability, instantaneous",3,2023-01-01
+32,"fairness, fair, convex, machine learn, fairwasp",5,2023-01-01
+34,"point, point cloud, cloud, registration, compression",9,2023-01-01
+35,"software, software engineer, code, engineer, source code",5,2023-01-01
+36,"fp, gpus, expert, memory, llms",3,2023-01-01
+37,"social, esg, sentiment, slogans, commercial",5,2023-01-01
+38,"anomaly, anomaly detection, detection, ad, train",8,2023-01-01
+39,"dit, diffusion, patch, image, dream",4,2023-01-01
+40,"dialogue, intent, open intent, intent detection, slot",5,2023-01-01
+41,"students, education, ai, compute education, chatgpt",6,2023-01-01
+42,"precedents, legal, ljp, domain model, judgment",1,2023-01-01
+43,"cluster, density, cluster methods, close curve, curve",4,2023-01-01
+44,"intermediate observations, regret, varepsilon, delay, gamma",3,2023-01-01
+45,"facial, face, head, nfr, expression",5,2023-01-01
+46,"depth, stereo, estimation, stereo match, shoot scan",4,2023-01-01
+47,"ecg, age, dataset, ecg feature, ecg record",2,2023-01-01
+48,"underwater, unitmodule, underwater image, vessels, track",4,2023-01-01
+49,"domain, target, source, target domain, domain adaptation",6,2023-01-01
+-1,"model, data, use, train, base",341,2024-01-01
+0,"attack, privacy, data, model, security",100,2024-01-01
+1,"robot, robots, control, task, robotic",82,2024-01-01
+2,"forecast, segmentation, detection, model, time series",47,2024-01-01
+3,"image, text, visual, model, multimodal",48,2024-01-01
+4,"image, segmentation, medical, medical image, model",24,2024-01-01
+5,"question, answer, retrieval, knowledge, llms",37,2024-01-01
+6,"languages, language, model, nlp, word",23,2024-01-01
+7,"task, train, learn, model, sam",17,2024-01-01
+8,"rl, reward, policy, learn, reinforcement learn",11,2024-01-01
+9,"graph, gnns, node, network, learn",12,2024-01-01
+10,"equation, pde, nonlinear, equations, pdes",16,2024-01-01
+11,"video, videos, frame, temporal, consistency",8,2024-01-01
+12,"reason, llms, language, model, language model",19,2024-01-01
+13,"speech, sound, speaker, audio, sound source",12,2024-01-01
+14,"graph, problem, interval graph, algorithm, subgraph",10,2024-01-01
+15,"lidar, point, radar, view, slam",13,2024-01-01
+16,"neural, network, neural network, layernorm, qcs",14,2024-01-01
+17,"recommendation, user, recommender, items, recommender systems",16,2024-01-01
+18,"render, view, image, hdr, gs",9,2024-01-01
+19,"network, quantization, dnns, weight, design",11,2024-01-01
+20,"quantum, classical, circuit, qd, mathsf",11,2024-01-01
+21,"protein, proteins, drug, chemical, molecular",9,2024-01-01
+22,"xi, bayesian, posterior, optimization, tfbo",6,2024-01-01
+23,"clinical, patient, data, medical, observational",10,2024-01-01
+24,"human, motion, pose, human motion, human pose",9,2024-01-01
+25,"audio, music, sound, musical, model",12,2024-01-01
+26,"emotion, emotions, icl, sentiment, text speech",5,2024-01-01
+27,"transformer, model, attention, transformers, layer",12,2024-01-01
+28,"neuron, neuron representations, single neuron, multi neuron, eeg",2,2024-01-01
+29,"ai, ai systems, intelligence, ids, value",6,2024-01-01
+30,"image, pet image, pet, beta, beta pet",4,2024-01-01
+31,"causal, causal graph, effect, causal model, latent",5,2024-01-01
+32,"fairness, ml, fair, bias, responsible",4,2024-01-01
+33,"office, agent, workflow, agents, plan",4,2024-01-01
+34,"point, point cloud, cloud, registration, instance",4,2024-01-01
+35,"code, api, test, source, python",7,2024-01-01
+36,"moe, memory, parameter, gpus, gpu",6,2024-01-01
+37,"social, social media, media, stance, stance detection",6,2024-01-01
+38,"anomaly, anomaly detection, fetal, detection, vad",3,2024-01-01
+39,"diffusion, diffusion model, gans, resolution, distillation",7,2024-01-01
+40,"conversational, dialogue, conversational search, duetsim, user",3,2024-01-01
+41,"ai, cg, educational, chatisa, students",4,2024-01-01
+42,"legal, law, law article, rdxel, ae rdxel",4,2024-01-01
+43,"cluster, woa, kmedoids, woa kmedoids, pam",5,2024-01-01
+44,"bandits, duel, bandit, duel bandits, arm",3,2024-01-01
+45,"face, expression, facial, head, identity",3,2024-01-01
+46,"depth, rich resource, scene, image, estimation",4,2024-01-01
+47,"sleep, ecg, ppg, signal, semg",4,2024-01-01
+48,"underwater, acoustic, vessels, auvs, bathymetry",4,2024-01-01
+49,"domain, source domain, source, pda, adaptation",2,2024-01-01
+-1,"model, learn, use, data, train",488,2025-01-01
+0,"attack, privacy, data, security, model",110,2025-01-01
+1,"robot, control, plan, task, robots",124,2025-01-01
+2,"forecast, model, flood, data, time",46,2025-01-01
+3,"image, text, visual, model, multimodal",43,2025-01-01
+4,"segmentation, image, medical, clinical, model",41,2025-01-01
+5,"knowledge, query, retrieval, question, document",25,2025-01-01
+6,"translation, language, languages, word, model",12,2025-01-01
+7,"class, continual, learn, task, model",20,2025-01-01
+8,"policy, rl, learn, reinforcement learn, reinforcement",18,2025-01-01
+9,"graph, gnns, node, graph neural, gnn",11,2025-01-01
+10,"neural, physical, physics, equations, pde",21,2025-01-01
+11,"video, temporal, frame, videos, model",26,2025-01-01
+12,"reason, llms, language, model, model llms",21,2025-01-01
+13,"speech, speaker, audio, accent, model",14,2025-01-01
+14,"log, algorithm, graph, problem, set",14,2025-01-01
+15,"lidar, point, radar, point cloud, cloud",9,2025-01-01
+16,"network, initialization, neural, reservoir compute, deterministic",5,2025-01-01
+17,"recommendation, user, recommender, users, soar",5,2025-01-01
+18,"view, image, render, gaussian, dgs",14,2025-01-01
+19,"quantization, inference, energy, network, bite",8,2025-01-01
+20,"quantum, classical, circuit, random, decode",10,2025-01-01
+21,"protein, drug, molecular, sequence, biological",15,2025-01-01
+22,"posterior, bayesian, mmd, gradient, vbmc",11,2025-01-01
+23,"clinical, health, medical, patient, data",13,2025-01-01
+24,"pose, human, motion, hmr, action",10,2025-01-01
+25,"audio, music, strum, sound, light",8,2025-01-01
+26,"emotion, fer, emotional, esc, recognition",8,2025-01-01
+27,"transformer, attention, transformers, wersa, sr",8,2025-01-01
+28,"eeg, brain, signal, pain, eeg signal",11,2025-01-01
+29,"ai, human, intelligence, accountability, ai systems",12,2025-01-01
+30,"image, mri, pet, fod, dose",13,2025-01-01
+31,"causal, discovery, causal discovery, individual, effect",10,2025-01-01
+32,"fairness, fair, bias, cluster, ml",8,2025-01-01
+33,"agent, agents, llm, multi agent, multi",9,2025-01-01
+34,"point, point cloud, cloud, shape, pcc",5,2025-01-01
+35,"code, cqs, test, harnessllm, code quality",3,2025-01-01
+36,"gpu, train, quantization, batch, memory",7,2025-01-01
+37,"sd, tweet, sentiment, sarcasm, social",4,2025-01-01
+38,"anomaly, anomaly detection, detection, gcl, anomalies",4,2025-01-01
+39,"diffusion, distillation, image, dit, model",6,2025-01-01
+40,"dialogue, slot, generate, dialogues, multi session",4,2025-01-01
+41,"students, academic, ai, question, educational",6,2025-01-01
+42,"legal, law, case, judicial, retrieval",10,2025-01-01
+43,"cluster, view, aggregation uncertainty, bivariate beta, fbbmm",2,2025-01-01
+44,"epsilon, regret, frac epsilon, frac, bandits",2,2025-01-01
+45,"avatar, avatars, facial, video, face",4,2025-01-01
+47,"ecg, sleep, signal, ecg signal, ppg",5,2025-01-01
+48,"underwater, ferry, depth, umde, underwater image",3,2025-01-01
+49,"domain, hash cod, label, hash, source",1,2025-01-01
+-1,"model, base, use, train, learn",286,2026-01-01
+0,"privacy, attack, data, model, base",61,2026-01-01
+1,"robot, control, safety, robotic, robots",77,2026-01-01
+2,"forecast, data, model, series, time series",14,2026-01-01
+3,"text, image, visual, model, edit",22,2026-01-01
+4,"segmentation, clinical, image, medical, model",20,2026-01-01
+5,"retrieval, document, rag, query, answer",20,2026-01-01
+6,"languages, translation, language, model, english",14,2026-01-01
+7,"model, dirichlet, learn, tuneahead, edl",5,2026-01-01
+8,"policy, exploration, rl, pda, mdps",5,2026-01-01
+9,"graph, gnns, node, graph neural, network",10,2026-01-01
+10,"physics, pidm, pidm dp, pde, dp",3,2026-01-01
+11,"video, videos, frame, temporal, video generation",15,2026-01-01
+12,"reason, llms, language, model, pattern",10,2026-01-01
+13,"speech, audio, speaker, spoof, voice",11,2026-01-01
+14,"graph, tree, algorithm, tilde, shortcut",7,2026-01-01
+15,"lidar, reprojection, lidar feature, point, feature",3,2026-01-01
+16,"network, neural, neural network, feature, learn time",8,2026-01-01
+17,"recommendation, user, item, graph, rank",5,2026-01-01
+18,"view, image, render, gs, light",8,2026-01-01
+19,"exit mechanisms, vitis, inference, early exit, exit",2,2026-01-01
+20,"quantum, circuit, classical, ml dsa, dsa",3,2026-01-01
+21,"protein, biological, sequence, cell, diabetes",5,2026-01-01
+22,"dre, posterior, implicit, distributions, os dre",3,2026-01-01
+23,"clinical, report, patient, model, medical",9,2026-01-01
+24,"motion, human, pose, joint, action",7,2026-01-01
+25,"physical, audio, physical process, caption, physics",1,2026-01-01
+26,"emotion, emotional, emotions, modality, word",7,2026-01-01
+27,"transformer, layer, transformers, attention, positional",6,2026-01-01
+28,"eeg, fmri, visual, brain, signal",2,2026-01-01
+29,"ai, human, ai systems, tom, systems",5,2026-01-01
+30,"image, pix, mri, ebms, dose",4,2026-01-01
+31,"causal, conditional, identifiability, effect, attribute",6,2026-01-01
+32,"intersectional, fairness, disparities, intersectional fairness, group membership",1,2026-01-01
+33,"agent, agents, llm, negotiation, failure",16,2026-01-01
+35,"code, reason, software, source, open",4,2026-01-01
+36,"fp, cfr, gpu, memory, gpus",9,2026-01-01
+37,"rumor, suicide, media, social, social media",3,2026-01-01
+38,"anomaly, anomaly detection, detection, anomalies, detector",4,2026-01-01
+39,"fd, diffusion, fd loss, fp, freeze diffusion",3,2026-01-01
+41,"instructional, instructional materials, ai, materials, student",3,2026-01-01
+42,"legal, retrieval, legal reason, public, law",5,2026-01-01
+43,"cluster, kernel mean, mean, kernel, algebra primitives",2,2026-01-01
+44,"bandits, regret, arm, bandit, mnl",3,2026-01-01
+45,"expression, portrait, facial, face, head",3,2026-01-01
+47,"ecg, signal, monitor, rppg, cobe",4,2026-01-01
+48,"underwater, stereo, ocean, estimation, depth",2,2026-01-01
+49,"vil, source, voda, domain, adaptation",1,2026-01-01
